@@ -1,5 +1,4 @@
-let mong;
-oUri = "";
+let mongoUri = "";
 const mongoose = require("mongoose");
 module.exports = mongoose;
 
