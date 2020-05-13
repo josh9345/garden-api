@@ -77,19 +77,7 @@
     "url": "http://gardenate.com/plant/Basil",
     "images": "https://i1.wp.com/www.gardeningknowhow.com/wp-content/uploads/2007/12/basil-plants.jpg?fit=1024%2C683&ssl=1"
   },
-  {
-    "Name": "Beetroot",
-    "alternateName": "Beets",
-    "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 45°F and 77°F.",
-    "spaceInstructions": "Space plants: 8 - 12 inches apart",
-    "harvestInstructions": "Harvest in 7-10 weeks.",
-    "compatiblePlants": "Compatible with (can grow beside): Onions, Silverbeet (Swiss Chard), Lettuce, Cabbage, Dwarf Beans, Dill, Peas. Strawberries",
-    "avoidInstructions": "Avoid growing close to: Asparagus, Carrots, Sweetcorn, Spinach",
-    "culinaryHints": "Apart from boiling whole for salads, beetroot roast well, cut in wedges. They also make a tasty salad grated raw with carrot and a little fresh orange juice.",
-    "culinaryPreservation": "",
-    "url": "http://gardenate.com/plant/Beetroot",
-    "images": "https://lh3.googleusercontent.com/proxy/n7KhEEXMfOxa1Wf1IMZb62QcolZkV6Rki5eMTrQYgas9P_4C3H-cHTSxSlQgBzLhAmR8Q9K-2tLQWl8pvDQ61Ue5I1jOOiI4MYDMZDuPg6kpj8ILkiG9"
-  },
+
   {
     "Name": "Borage",
     "alternateName": "Burrage, Bugloss",
@@ -323,19 +311,6 @@
     "culinaryPreservation": "",
     "url": "http://gardenate.com/plant/Choko~Chayote",
     "images": "https://i1.wp.com/www.gardeningknowhow.com/wp-content/uploads/2013/09/chayote.jpg?fit=1024%2C697&ssl=1"
-  },
-  {
-    "Name": "Climbing beans",
-    "alternateName": "Pole beans, Runner beans, Scarlet Runners",
-    "sowInstructions": "Easy to grow. Sow in garden. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 61°F and 86°F.",
-    "spaceInstructions": "Space plants: 4 - 8 inches apart",
-    "harvestInstructions": "Harvest in 9-11 weeks.",
-    "compatiblePlants": "Compatible with (can grow beside): Sweetcorn, spinach, lettuce, summer savory, dill, carrots, brassicas, beets, radish, strawberry, cucumbers, zucchini, tagates minuta (wild marigold)",
-    "avoidInstructions": "Avoid growing close to: Alliums (Chives, leek, garlic, onions), Florence fennel",
-    "culinaryHints": "Use young in salads - blanch and cool.",
-    "culinaryPreservation": "Will freeze well.",
-    "url": "http://gardenate.com/plant/Beans%2B-%2Bclimbing",
-    "images": "https://www.thespruce.com/thmb/kFTYxbXfG4YYXDC4pkzI0zkpkFg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/KT-Wonder-Beans-56a34bb75f9b58b7d0d151f2.jpg"
   },
   {
     "Name": "Collards",
@@ -830,19 +805,6 @@
     "culinaryPreservation": "",
     "url": "http://gardenate.com/plant/Rocket",
     "images": "https://gardenerspath.com/wp-content/uploads/2019/09/Arugula-or-rocket-Eruca-vesicaria-growing-in-a-garden.jpg"
-  },
-  {
-    "Name": "Rockmelon",
-    "alternateName": "Canteloupe",
-    "sowInstructions": "Grow in seed trays, and plant out in 4-6 weeks. Sow seed at a depth approximately three times the diameter of the seed. Best planted at soil temperatures between 68°F and 90°F.",
-    "spaceInstructions": "Space plants: 16 - 24 inches apart",
-    "harvestInstructions": "Harvest in 10-16 weeks.",
-    "compatiblePlants": "Compatible with (can grow beside): Sweetcorn, Sunflowers",
-    "avoidInstructions": "Avoid growing close to: Potatoes",
-    "culinaryHints": "Cut in half and scoop out and discard the seeds. Sprinkle with some ground ginger or serve plain.",
-    "culinaryPreservation": "",
-    "url": "http://gardenate.com/plant/Rockmelon",
-    "images": ""
   },
   {
     "Name": "Rosella",
